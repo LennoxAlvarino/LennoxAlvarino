@@ -1,5 +1,5 @@
 # Hi there, I'm Lennox Alvariño 👋
-I am an aspiring Data-Driven Software Developer. 
+An aspiring Data-Driven Software Developer. 
 A strong believer in the impact of data to influence decisions that make organizations efficient, profitable, and successful.
 
 ## Tech Stack 🤖
