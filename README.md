@@ -1,6 +1,11 @@
 ## Hi there, I'm Lennox Alvariño 👋
-IT student with a passion for data science, programming, and problem-solving. Over 5 years of experience as a Crew Trainer and Team Leader at McDonald’s, earning multiple awards for leadership and excellence. Skilled in Python data analysis, web development, database management, and team leadership. Able to blend technical expertise with strong people and problem-solving skills to achieve goals. 
+I am an aspiring Data-Driven Software Developer. 
 A strong believer in the impact of data to influence decisions that make organizations efficient, profitable, and successful.
+
+# Tech Stack 🤖
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 <!--
 **LennoxAlvarino/LennoxAlvarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
