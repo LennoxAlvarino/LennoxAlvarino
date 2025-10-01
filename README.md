@@ -2,13 +2,21 @@
 An aspiring Data-Driven Software Developer. 
 A strong believer in the impact of data to influence decisions that make organizations efficient, profitable, and successful.
 
-## Tech Stack 🤖
+This is a repository to showcase my skills, share projects and track my progress in Data Analytics / Data Science, Software Development and other IT related topics.
+
+## Table of Contents
+
+## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Relational Database](https://img.shields.io/badge/Database-4479A1?logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
+## Projects
+
+## Certificates 
 <!--
 **LennoxAlvarino/LennoxAlvarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
