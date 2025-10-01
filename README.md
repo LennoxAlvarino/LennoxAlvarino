@@ -5,6 +5,9 @@ A strong believer in the impact of data to influence decisions that make organiz
 This is a repository to showcase my skills, share projects and track my progress in Data Analytics / Data Science, Software Development and other IT related topics.
 
 ## Table of Contents
+- [Tech Stack](#tech-stack)
+- [Projects](#projects)
+- [Certificates](#certificates)
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
