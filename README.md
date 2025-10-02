@@ -18,10 +18,12 @@ This is a repository to showcase my skills, share projects and track my progress
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## Projects
-- Project 1
-- Project 2
-- Project 3
+- [Project 1](https://github.com/LennoxAlvarino/Data_Analysis_Projects)  
+  *Description:* Data analysis projects showcasing exploratory data analysis, cleaning, and visualization.
 
+- [Project 2](https://github.com/LennoxAlvarino/Dashboard)  
+  *Description:* Interactive dashboard project for monitoring and visualizing key metrics.
+  
 ## Certificates 
 <!--
 **LennoxAlvarino/LennoxAlvarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
