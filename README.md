@@ -18,6 +18,9 @@ This is a repository to showcase my skills, share projects and track my progress
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ## Projects
+- Project 1
+- Project 2
+- Project 3
 
 ## Certificates 
 <!--
