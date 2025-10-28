@@ -2,7 +2,7 @@
 An aspiring Data-Driven Software Developer. 
 A strong believer in the impact of data to influence decisions that make organizations efficient, profitable, and successful.
 
-This is a repository to showcase my skills, share projects and track my progress in Data Analytics / Data Science, Software Development and other IT related topics.
+This is a repository to showcase my skills, share projects, and track my progress in Software Development, Data Science,  and other IT-related topics.
 
 ## Table of Contents
 - [Tech Stack](#tech-stack)
