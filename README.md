@@ -1,13 +1,19 @@
 # Hi there, I'm Lennox Alvariño 👋
-An aspiring Data-Driven Software Developer. 
-A strong believer in the impact of data to influence decisions that make organizations efficient, profitable, and successful.
-
-This is a repository to showcase my skills, share projects, and track my progress in Software Development, Data Science,  and other IT-related topics.
+Software QA Tester | Future Automation Specialist
+Practical experience navigating complex business rules, system documentation, and UAT cycles. Leveraging my IT development background  to actively learn, build, and deploy automated test frameworks.
 
 ## Table of Contents
+- [About Me](#about-me)
 - [Tech Stack](#tech-stack)
 - [Projects](#projects)
+<!--
 - [Certificates](#certificates)
+-->
+
+## 🚀 About Me
+- What I Do: I specialize in dissecting massive, high-risk system behaviors and translating them into structured, efficient verification layers. I am actively scaling my expertise from enterprise-level manual QA into full-stack test automation.
+- Testing Philosophy: Automation is only as good as the testing logic behind it. My background handling dense business rules and user workflows ensures that my automation scripts test what actually matters to the business.
+- Background: BS in Information Technology graduate from Saint Louis University, with practical experience engineering full-stack modules and evaluating enterprise-grade real estate systems.
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -23,9 +29,9 @@ This is a repository to showcase my skills, share projects, and track my progres
 
 - [Project 2](https://github.com/LennoxAlvarino/Dashboard)  
   *Description:* Interactive dashboard project for monitoring and visualizing key metrics.
-  
-## Certificates 
+
 <!--
+## Certificates 
 **LennoxAlvarino/LennoxAlvarino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
