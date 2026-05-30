@@ -25,10 +25,10 @@ Practical experience navigating complex business rules, system documentation, an
 
 ## Projects
 - [Project 1](https://github.com/LennoxAlvarino/Data_Analysis_Projects)  
-  *Description:* Data analysis projects showcasing exploratory data analysis, cleaning, and visualization.
+  *Description:* 
 
 - [Project 2](https://github.com/LennoxAlvarino/Dashboard)  
-  *Description:* Interactive dashboard project for monitoring and visualizing key metrics.
+  *Description:* 
 
 <!--
 ## Certificates 
