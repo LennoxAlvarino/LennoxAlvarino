@@ -11,9 +11,9 @@ Practical experience navigating complex business rules, system documentation, an
 -->
 
 ## About Me
-- What I Do: I specialize in dissecting massive, high-risk system behaviors and translating them into structured, efficient verification layers. I am actively scaling my expertise from enterprise-level manual QA into full-stack test automation.
-- Testing Philosophy: Automation is only as good as the testing logic behind it. My background handling dense business rules and user workflows ensures that my automation scripts test what actually matters to the business.
-- Background: BS in Information Technology graduate from Saint Louis University, with practical experience engineering full-stack modules and evaluating enterprise-grade real estate systems.
+What I Do: I am a Software QA Tester transitioning my foundation in manual enterprise testing into the world of test automation. I thrive on breaking down complex software logic and ensuring applications work exactly how users expect them to.  
+My Approach: To me, great automation isn't just about memorizing syntax—it’s about having the analytical mindset to know what to test. Having manually mapped out a single real estate reservation script with over 1,300 business rules during my internship , I build test cases focused on real-world business logic and system reliability.  
+Background: I’m an Information Technology graduate from Saint Louis University (Dean's Lister). Beyond QA testing, I have hands-on experience building front-end and back-end modules using Laravel and MySQL , giving me the unique advantage of understanding both the developer's code and the tester's lens.  
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
