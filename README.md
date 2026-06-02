@@ -1,5 +1,5 @@
 # Hi there, I'm Lennox Alvariño 👋
-### **Software QA Tester | Future Automation Specialist**
+### **Software QA Tester | Future QA Automation Specialist**
 Practical experience navigating complex business rules, system documentation, and UAT cycles. Leveraging my IT development background  to actively learn, build, and deploy automated test frameworks.
 
 ## Table of Contents
