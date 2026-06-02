@@ -11,9 +11,10 @@ Practical experience navigating complex business rules, system documentation, an
 -->
 
 ## About Me
-What I Do: I am a Software QA Tester transitioning my foundation in manual enterprise testing into the world of test automation. I thrive on breaking down complex software logic and ensuring applications work exactly how users expect them to.  
-My Approach: To me, great automation isn't just about memorizing syntax—it’s about having the analytical mindset to know what to test. Having manually mapped out a single real estate reservation script with over 1,300 business rules during my internship , I build test cases focused on real-world business logic and system reliability.  
-Background: I’m an Information Technology graduate from Saint Louis University (Dean's Lister). Beyond QA testing, I have hands-on experience building front-end and back-end modules using Laravel and MySQL , giving me the unique advantage of understanding both the developer's code and the tester's lens.  
+[cite_start]**What I Do:** I am a Software QA Tester transitioning my foundation in manual enterprise testing into the world of test automation. [cite_start]I thrive on breaking down complex software logic and ensuring applications work exactly how users expect them to.  
+**My Approach:** To me, great automation isn't just about memorizing syntax—it’s about having the analytical mindset to know what to test. [cite_start]Having manually mapped out a single real estate reservation script with over 1,300 business rules during my internship [cite: 12][cite_start], I build test cases focused on real-world business logic and system reliability.  
+
+[cite_start]**Background:** I’m an Information Technology graduate from Saint Louis University (Dean's Lister). [cite_start]Beyond QA testing, I have hands-on experience building front-end and back-end modules using Laravel and MySQL, giving me the unique advantage of understanding both the developer's code and the tester's lens. 
 
 ## Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
