@@ -10,7 +10,7 @@ Practical experience navigating complex business rules, system documentation, an
 - [Certificates](#certificates)
 -->
 
-## 🚀 About Me
+## About Me
 - What I Do: I specialize in dissecting massive, high-risk system behaviors and translating them into structured, efficient verification layers. I am actively scaling my expertise from enterprise-level manual QA into full-stack test automation.
 - Testing Philosophy: Automation is only as good as the testing logic behind it. My background handling dense business rules and user workflows ensures that my automation scripts test what actually matters to the business.
 - Background: BS in Information Technology graduate from Saint Louis University, with practical experience engineering full-stack modules and evaluating enterprise-grade real estate systems.
